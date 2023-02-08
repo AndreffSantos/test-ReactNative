@@ -34,5 +34,6 @@ yarn start
 
 
 ## Desafios do projeto 
-      Nunca tinha trabalhoado com Geolocalizção antes tive algumas dificuldades com a biblioteca `@react-native-community/geolocation` só com `expo-location` consegui ter acesso a permisões e localização do dispositivo.
-      Acabei não implementando a função para escolher um intervalo para sincronização. 
+Nunca tinha trabalhoado com Geolocalizção antes tive algumas dificuldades com a biblioteca `@react-native-community/geolocation` só com `expo-location` consegui ter acesso a permisões e localização do dispositivo.
+
+Acabei não implementando a função para escolher um intervalo para sincronização. 
